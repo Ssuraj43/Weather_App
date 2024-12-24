@@ -1,0 +1,1 @@
+"A user-friendly weather application that provides real-time weather updates for various locations. Built with an intuitive interface, it displays current temperature, humidity, wind speed, and other essential weather details to help users stay informed about the latest weather conditions."
